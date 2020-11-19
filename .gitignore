@@ -4,3 +4,4 @@
 /src/node/shared
 *.log
 .DS_Store
+.vite_opt_cache
